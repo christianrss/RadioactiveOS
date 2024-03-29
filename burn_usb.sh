@@ -1,0 +1,1 @@
+sudo dd if=./build/boot.bin of=/dev/sdb
